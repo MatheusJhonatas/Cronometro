@@ -1,0 +1,14 @@
+C:\Dev\StopWactch\bin\Debug\net7.0\StopWactch.exe
+C:\Dev\StopWactch\bin\Debug\net7.0\StopWactch.deps.json
+C:\Dev\StopWactch\bin\Debug\net7.0\StopWactch.runtimeconfig.json
+C:\Dev\StopWactch\bin\Debug\net7.0\StopWactch.dll
+C:\Dev\StopWactch\bin\Debug\net7.0\StopWactch.pdb
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.AssemblyInfoInputs.cache
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.AssemblyInfo.cs
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.csproj.CoreCompileInputs.cache
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.dll
+C:\Dev\StopWactch\obj\Debug\net7.0\refint\StopWactch.dll
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.pdb
+C:\Dev\StopWactch\obj\Debug\net7.0\StopWactch.genruntimeconfig.cache
+C:\Dev\StopWactch\obj\Debug\net7.0\ref\StopWactch.dll
